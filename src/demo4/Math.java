@@ -8,6 +8,8 @@ public class Math {
 		int b = 90;
 		int sum = a+b;
 		System.out.println(sum);
+		int sub = b-a;
+		System.out.println(sub);
 	
 	}
 
